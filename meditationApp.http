@@ -1,0 +1,6 @@
+@meditationApp_HostAddress = http://localhost:5152
+
+GET {{meditationApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
